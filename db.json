@@ -1,0 +1,19 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apples are a good source of antioxidants, fiber, water, and several nutrients."
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "Bananas are a popular fruit with many potential health benefits. They may boost your digestion and heart health thanks to their fiber and antioxidant contents."
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "description": " Oranges are among the world's most popular fruits, as they're both tasty and nutritious. They are a good source of vitamin C"
+    }
+  ]
+}
